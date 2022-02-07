@@ -53,3 +53,5 @@ select * from order_items where order_id = 2 order by quantity * unit_price desc
 select * from customers limit 3 -- with a limit of 3
 select * from customers limit 6,3 -- skip first 6 and bring the first 6
 select * from customers order by points desc limit 3; -- most loyal customers
+
+

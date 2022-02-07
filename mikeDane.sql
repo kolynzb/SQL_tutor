@@ -3,3 +3,4 @@ create table   student(
     name VARCHAR(25) NOT NULL,
     major varchar(20) 
 );
+

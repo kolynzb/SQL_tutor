@@ -13,6 +13,20 @@
       "database": "mikedane",
       "name": "MikeDane Tutorial",
       "group": "Basics"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "mosh",
+      "group": "basics",
+      "database": "sql_store",
+      "username": "root",
+      "password": "i4iridium14C++"
     }
   ]
 }
